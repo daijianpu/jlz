@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'jingluzi.com京鹿子动漫模玩'
+description: '京鹿子日本代购正版模玩'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i3/2710706468/O1CN01O5yoSo1xeOLwOfoCO_!!2710706468.jpg"
 
@@ -34,18 +34,18 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-- title: Home
+- title: 首页Home
   url: /
-- title: About
+- title: 关于About
   url: /about/
-- title: Contact
+- title: 联系Contact
   url: /contact/
-- title: Blog
+- title: 博客Blog
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: 回到顶部 ↑ Back to top
   url: "#top"
 
 # Collections
