@@ -1,5 +1,6 @@
 ---
-title: About this website
+title: 联系
 ---
+<p>你可以通过以下方式联系我们：</p>
+<p>闲鱼APP，搜索用户名：dayddy</p>
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
