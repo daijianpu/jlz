@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://jingluzi.com'
 baseurl: ''
-title: 'jingluzi'
+title: 'jingluzi.com'
 description: 'jingluzi.com|京鹿子日本代购正版模玩'
 permalink: pretty
 logo: "https://img.alicdn.com/imgextra/i4/2710706468/O1CN01L7rrUV1xeOUawJWiP_!!2710706468.jpg"
